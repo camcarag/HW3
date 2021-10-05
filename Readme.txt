@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Folio
-Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Bolt
+Template URL: https://templatemag.com/bolt-bootstrap-agency-template/
+Author: TemplateMag.com
+License: https://templatemag.com/license/
